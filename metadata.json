@@ -1,0 +1,8 @@
+{
+  "name": "Warsha Plus (ورشه+)",
+  "description": "منصة شاملة لربط الزبائن بالفنيين المختصين (كهرباء، سباكة، ديكور، إلخ) مع نظام عروض أسعار متكامل ولوحة تحكم إدارية.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
